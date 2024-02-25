@@ -8,7 +8,7 @@ This repository contains the code for a clone of the Spotify interface. It's par
 
 1. Click on `Go Live` below and the browser will automatically open with the page content.
 
-1. Install and then run `json-server` package to create a fake API based on a JSON data that will be consumed by the application when a search is made.
+1. Install and then run `json-server` package to create a fake API based on JSON data that will be consumed by the application when a search is made.
     ```sh
     $ sudo npm i json-server@0.17.4 -g
     ```
@@ -18,3 +18,5 @@ This repository contains the code for a clone of the Spotify interface. It's par
     ```
 
 1. Try to write `Foo` on the search bar to see the app response.
+
+    ![image](https://github.com/vinicius-n4/spotify-clone/assets/58186122/afef42f3-dfeb-43c0-b50c-a9d5ade3dc95)
